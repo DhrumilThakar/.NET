@@ -1,0 +1,14 @@
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.AssemblyInfoInputs.cache
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.AssemblyInfo.cs
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\Variable\Variable\bin\Debug\net8.0\Variable.exe
+C:\Users\dhruv\source\repos\Variable\Variable\bin\Debug\net8.0\Variable.deps.json
+C:\Users\dhruv\source\repos\Variable\Variable\bin\Debug\net8.0\Variable.runtimeconfig.json
+C:\Users\dhruv\source\repos\Variable\Variable\bin\Debug\net8.0\Variable.dll
+C:\Users\dhruv\source\repos\Variable\Variable\bin\Debug\net8.0\Variable.pdb
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.dll
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\refint\Variable.dll
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.pdb
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\Variable.genruntimeconfig.cache
+C:\Users\dhruv\source\repos\Variable\Variable\obj\Debug\net8.0\ref\Variable.dll
