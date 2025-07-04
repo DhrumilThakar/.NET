@@ -1,0 +1,8 @@
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\bin\Debug\CIE_1.exe.config
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\bin\Debug\CIE_1.exe
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\bin\Debug\CIE_1.pdb
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\obj\Debug\CIE_1.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\obj\Debug\CIE_1.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\obj\Debug\CIE_1.exe
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\obj\Debug\CIE_1.pdb
+C:\Users\dhruv\source\repos\CIE_1\CIE_1\obj\Debug\CIE_1.exe.config
